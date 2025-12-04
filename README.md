@@ -1,4 +1,11 @@
-## Hi there 👋
+## Hi! My name is Cristian. I am a computational geneticist studying structural variation.
+
+- I am a [Banting Postdoctoral Fellow](https://banting.fellowships-bourses.gc.ca/en/2024-2025-eng.html) with Dr. Guillaume Lettre at the Montreal Heart Institute.
+- I obtained my PhD from McGill University studying with Dr. Guillaume Bourque.
+
+My work involves assembling human genomes and finding long stretches of DNA that are different between humans.
+I then develop tools to genotype these in rare disease cases, map their epigenetic state and associate them with phenotypes.
+You can check all my research on this topic on [Google Scholar](https://scholar.google.ca/citations?user=DzNAR8YAAAAJ&hl=en).
 
 <!--
 **cgroza/cgroza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
