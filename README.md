@@ -1,7 +1,7 @@
 ## Hi! My name is Cristian. I am a computational geneticist studying structural variation.
 
-- I am a [Banting Postdoctoral Fellow](https://banting.fellowships-bourses.gc.ca/en/2024-2025-eng.html) with Dr. Guillaume Lettre at the Montreal Heart Institute.
-- I obtained my PhD from McGill University studying with Dr. Guillaume Bourque.
+- Currently, I am completing the [Banting Postdoctoral Fellowship](https://banting.fellowships-bourses.gc.ca/en/2024-2025-eng.html) with Dr. Guillaume Lettre at the Montreal Heart Institute.
+- Previously, I obtained my PhD from McGill University studying with Dr. Guillaume Bourque.
 
 My work involves assembling human genomes and finding long stretches of DNA that are different between humans.
 I then develop tools to genotype these in rare disease cases, map their epigenetic state and associate them with phenotypes.
